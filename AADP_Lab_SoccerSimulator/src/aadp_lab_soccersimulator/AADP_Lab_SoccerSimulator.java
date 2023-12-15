@@ -17,10 +17,10 @@ import java.util.Scanner;
  * Please put the names and student numbers of the team here:
  * 
  * Name 1: Enio
- * Number 1:
+ * Number 1:2021221
  * 
- * Name 2: Helder
- * Number 2:
+ * Name 2: Helder Camara
+ * Number 2:2021341
  * 
  * Name 3:
  * Number 3:

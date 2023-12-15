@@ -9,6 +9,9 @@ package aadp_lab_soccersimulator;
  * @author eniomagalhaes
  */
 public class UserHandling {
+    public static int getUserChoice(Scanner sc) {
+        // Implement user input logic
+    }
     
 }
 
